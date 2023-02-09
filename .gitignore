@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# PyCharm
+.idea/
+
+# Google Drive
+*.bak
+
 # Distribution / packaging
 .Python
 build/
