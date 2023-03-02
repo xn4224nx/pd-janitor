@@ -74,3 +74,7 @@ class DataSource:
 
     def format_as_datetime(self):
         pass
+    
+    def remove_same_val_columns(self):
+        pass
+    
